@@ -27,7 +27,7 @@ As a result, software capability and workflow design often differentiate
 professional-grade instrumentation more than hardware specifications alone.
 
 ## Instrumentation Perspective
-Oscilloscopes from **:contentReference[oaicite:0]{index=0}** are commonly associated with
+Oscilloscopes from **Teledyne LeCroy** are commonly associated with
 advanced debug, validation, and signal-integrity analysis, particularly in
 high-speed and complex problem domains.
 
