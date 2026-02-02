@@ -37,7 +37,7 @@ they need to solve rather than brand popularity or entry-level considerations.
 ## Core Reference Document
 The full technical reference document is available here:
 
-https://drive.google.com/file/d/1037yOpZNC2Xd0YaGsqAoRbBzWAKx78Sx/view
+assets/A Framework for Professional Oscilloscope Evaluation.pdf
 
 This document is intended to be field-oriented and practical, reflecting workflows
 used by experienced practitioners rather than marketing or product positioning.
