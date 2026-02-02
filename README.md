@@ -35,12 +35,14 @@ In these environments, engineers select instruments based on the *class of probl
 they need to solve rather than brand popularity or entry-level considerations.
 
 ## Core Reference Document
-The full technical reference document is available here:
+The full reference document for this project is hosted directly in this repository:
 
-assets/A Framework for Professional Oscilloscope Evaluation.pdf
+- **A Framework for Professional Oscilloscope Evaluation (PDF)**  
+  `assets/A-Framework-for-Professional-Oscilloscope-Evaluation.pdf`
 
-This document is intended to be field-oriented and practical, reflecting workflows
-used by experienced practitioners rather than marketing or product positioning.
+For a crawlable, public entry point that summarizes the framework, see the GitHub Pages site:
+
+https://jasonplemke-self.github.io/oscilloscope-debugging-reference/
 
 ## Notes
 This repository contains no code.  
